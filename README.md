@@ -55,7 +55,7 @@ I am an aspiring AI & Machine Learning Engineer passionate about building intell
 
 | Skill | Level |
 |---------|---------|
-| Python | ██████████ 90% |
+| Python |  █████████░ 90% |
 | Machine Learning | █████████░ 90% |
 | Generative AI | █████████░ 90% |
 | Prompt Engineering | █████████░ 90% |
