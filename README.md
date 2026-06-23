@@ -22,9 +22,9 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=gajendran61&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet"/>
-<img src="https://img.shields.io/github/followers/gajendran61?style=for-the-badge&color=blue"/>
-<img src="https://img.shields.io/github/stars/gajendran61?style=for-the-badge&color=yellow"/>
+<img src="https://komarev.com/ghpvc/?username=antonyjoseph0620&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet"/>
+<img src="https://img.shields.io/github/followers/antonyjoseph0620?style=for-the-badge&color=blue"/>
+<img src="https://img.shields.io/github/stars/antonyjoseph0620?style=for-the-badge&color=yellow"/>
 </p>
 
 <hr>
@@ -137,17 +137,17 @@ Responsible AI toolkit focusing on fairness, explainability and ethical AI pract
 # 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gajendran61&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antonyjoseph0620&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gajendran61&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gajendran61&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=antonyjoseph0620&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=antonyjoseph0620&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gajendran61&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gajendran61&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=antonyjoseph0620&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=antonyjoseph0620&theme=tokyonight"/>
 </p>
 
 ---
@@ -155,13 +155,13 @@ Responsible AI toolkit focusing on fairness, explainability and ethical AI pract
 # 🏆 GitHub Statistics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gajendran61&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=antonyjoseph0620&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gajendran61&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=antonyjoseph0620&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gajendran61&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonyjoseph0620&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -169,7 +169,7 @@ Responsible AI toolkit focusing on fairness, explainability and ethical AI pract
 # 🏆 Achievement Showcase
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=gajendran61&theme=tokyonight&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=antonyjoseph0620&theme=tokyonight&column=7"/>
 </p>
 
 ---
@@ -177,7 +177,7 @@ Responsible AI toolkit focusing on fairness, explainability and ethical AI pract
 # 📈 Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gajendran61&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=antonyjoseph0620&theme=tokyo-night"/>
 </p>
 
 ---
