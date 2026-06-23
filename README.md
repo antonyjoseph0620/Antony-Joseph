@@ -1,7 +1,7 @@
 <!-- PREMIUM AI BANNER -->
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=350&color=gradient&customColorList=6,12,20,24,30&text=GAJENDRAN&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20%7C%20Machine%20Learning%20%7C%20Generative%20AI%20Engineer&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=350&color=gradient&customColorList=6,12,20,24,30&text=ANTONY JOSEPH&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20%7C%20Machine%20Learning%20%7C%20Generative%20AI%20Engineer&descAlignY=58"/>
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gajendran61&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antonyjoseph0620&theme=tokyonight"/>
 </p>
 
 <p align="center">
