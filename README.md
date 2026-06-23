@@ -29,7 +29,7 @@
 
 <hr>
 
-<h1 align="center">👋 Hi, I'm Gajendran</h1>
+<h1 align="center">👋 Hi, I'm Antony Joseph</h1>
 
 <h3 align="center">
 AI & Machine Learning Engineer • Generative AI • Prompt Engineering • NLP • LLM Systems
@@ -55,7 +55,7 @@ I am an aspiring AI & Machine Learning Engineer passionate about building intell
 
 | Skill | Level |
 |---------|---------|
-| Python | ██████████ 95% |
+| Python | ██████████ 90% |
 | Machine Learning | █████████░ 90% |
 | Generative AI | █████████░ 90% |
 | Prompt Engineering | █████████░ 90% |
@@ -105,12 +105,6 @@ Responsible AI toolkit focusing on fairness, explainability and ethical AI pract
 ---
 
 # 💼 Internship Experience
-
-### AI & Machine Learning Intern — RINEX
-
-- Applied machine learning algorithms on real-world datasets
-- Performed model training and evaluation
-- Worked on predictive analytics workflows
 
 ### Generative AI Intern — AdroIT Innovative Solutions
 
@@ -207,9 +201,9 @@ Responsible AI toolkit focusing on fairness, explainability and ethical AI pract
 
 # 🌍 Connect With Me
 
-💼 LinkedIn: https://www.linkedin.com/in/gajendrank
+💼 LinkedIn: https://www.linkedin.com/in/antonyjoseph2005
 
-📧 Email: gajendrankrishnamoorthy453@gmail.com
+📧 Email: antonyjoseph0620@gmail.com
 
 ---
 
